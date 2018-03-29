@@ -1,4 +1,0 @@
-lsif : List network InterFaces
-
-Simpler alternative to ifconfig(8) to list all the network devices and
-IP addresses, for when you don't want to look at the details of ifconfig.
