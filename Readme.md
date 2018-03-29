@@ -28,40 +28,36 @@ A step by step series of examples that tell you have to get a development env ru
 Say what the step will be
 
 ```
-Give the example
+make help
 ```
 
-And repeat
+To install
 
 ```
-until finished
+make
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+Please test and report bugs, comments and suggestions.
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+The automated tests for this system will be added soon.
 
 ### Break down into end to end tests
 
-Explain what these tests test and why
-
-```
-Give an example
-```
+There are no automated tests at the moment
 
 ### And coding style tests
 
-Explain what these tests test and why
+To be added
 
 ```
-Give an example
+Please stay tuned
 ```
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+Not supported at the moment
 
 ## Built With
 
