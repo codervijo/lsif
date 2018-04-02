@@ -12,6 +12,13 @@ That is built for x86_64 architecture and a relatively new Linux distribution.
 This was built and tested on Ubuntu 16.04 LTS on x86_64
 
 If not, simple make will build the binary.
+
+Quick and dirty way to get started is as follows
+```
+ git clone https://github.com/codervijo/lsif.git && cd lsif && ./bin/lsif
+```
+You may want to adjust you PATH env variable to point to this directory, or copy it to another
+directory in your PATH.
  
 ### Prerequisites
 
